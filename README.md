@@ -9,4 +9,5 @@
 3. Run npm start
 
 ### Note:
-This application is hosted on www.heroku.com. The http fetch requests are made to my own API also hosted on Heroku at [link] (https://salty-badlands-93758.herokuapp.com/)
+This application is hosted on www.heroku.com. The http fetch requests are made to my own API also hosted on Heroku at 
+[link](https://salty-badlands-93758.herokuapp.com/)
